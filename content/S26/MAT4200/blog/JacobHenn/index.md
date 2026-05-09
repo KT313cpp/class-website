@@ -25,11 +25,11 @@ The main idea is to find ways in which a substance like water can _flow_ through
 Producing the flow on the right gravitationally is physically possible. For example, you could make a waterslide like this:
 
 **(Figure 3)**
-<img width="701" height="705" alt="hw07-4 5" src="hw07-4 5.png" />
+<img width="701" height="705" alt="hw07-4 5" src="hw07-4.5.png" />
 
 But water flowing around a _closed_ canal under gravity alone lies in the realm of Escher:
 
-<img width="279" height="356" alt="waterfall" src="waterfall.png" />
+<img width="279" height="356" alt="waterfall" src="waterfall.jpg" />
 
 So the impossibility of a perpetually cycling waterway has something to do with the hole that distinguishes a figure O from a figure C.
 
