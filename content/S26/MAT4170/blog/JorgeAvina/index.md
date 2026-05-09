@@ -1,5 +1,5 @@
 ---
-title: Möbius Transformations: Bending the Complex Plane Through Geometry and Algebra
+title: Möbius Transformations - Bending the Complex Plane Through Geometry and Algebra
 author: Jorge Israel Avina
 date: 2026-08-05
 type: blog
